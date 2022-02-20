@@ -5,8 +5,9 @@
 ### And also so interested to grow up about that
 #
 
-## About the Tools and Languages that I have worked with
+### **About the Tools and Languages that I have worked with**
 <div align="center">
+  <br>
   <img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" />
   <img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
